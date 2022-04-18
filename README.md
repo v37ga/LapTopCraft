@@ -1,5 +1,8 @@
 # LapTopCraft
  Lite minecraft modpack. Mechanical engineering, machinery, etc.
+ <br>
+<i> <a href="https://github.com/v37ga/37/tree/main/laptopcraft">Website repository</a></i>
+ <br>
 
 Download: <a href="https://v37ga.github.io/37/laptopcraft/">[here]</a>
 
